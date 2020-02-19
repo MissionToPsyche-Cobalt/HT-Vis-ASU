@@ -173,7 +173,8 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: black;
-  background-image: url("../img/PsycheImage2.jpg");
+  /*background-image: url("../img/PsycheImage2.jpg");*/
+  background-image: url("../img/animations/scene0.gif");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
