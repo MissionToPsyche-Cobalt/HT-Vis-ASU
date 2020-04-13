@@ -6315,7 +6315,7 @@ a.close.disabled {
   width: 15%;
   color: mediumpurple;
   text-align: center;
-  opacity: 0.5;
+  opacity: 1;
   transition: opacity 0.15s ease;
 }
 
@@ -6331,8 +6331,8 @@ a.close.disabled {
 .carousel-control-next:focus {
   color: mediumpurple;
   text-decoration: none;
-  outline: 0;
-  opacity: 0.9;
+  outline: 0.5px;
+  opacity: 1;
 }
 
 .carousel-control-prev {
